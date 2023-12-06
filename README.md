@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/jonnymoretti">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=jonnymoretti&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=jonnymoretti&layout=compact&langs_count=8&theme=gotham" /></a>
+  </a>
   
 </div>
 <div style="display: inline_block"><br>
