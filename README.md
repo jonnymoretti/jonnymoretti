@@ -1,7 +1,7 @@
 ## Hi I'm João Moretti
 
-- 🔭 Today I'm a student of Data Analysis.
-- 🌱 I'm studying Machine Learning and the Python programming language.
+- 🔭 Today I'm a student of Data Analysis and RPA Developer
+- 🌱 I'm studying Machine Learning, Python programming language, UiPath and Blue Prism.
 - 📫 Contact me at: moretti.joao13@gmail.com 
 
 <div>
